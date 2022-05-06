@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="2dp"
+            android:layout_margin="4dp"
+            android:id="@+id/font1"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font1">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:padding="2dp"
+            android:id="@+id/font2"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font2">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:padding="2dp"
+            android:id="@+id/font3"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font3">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:padding="2dp"
+            android:id="@+id/font4"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font4">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font5"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font5">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font6"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font6">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font7"
+            android:padding="4dp"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font7">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font8"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font8">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font9"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font9">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font10"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font10">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font11"
+            android:background="@drawable/border"
+            android:padding="4dp"
+            android:text="ABC"
+            android:fontFamily="@font/font11">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font12"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font12">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font13"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font13">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font15"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font15">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font17"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font17">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font18"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:padding="4dp"
+            android:fontFamily="@font/font18">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font19"
+            android:padding="4dp"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font19">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:padding="4dp"
+            android:id="@+id/font20"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font20">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="4dp"
+            android:layout_margin="4dp"
+            android:id="@+id/font21"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font21">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font22"
+            android:padding="4dp"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font22">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font23"
+            android:padding="4dp"
+            android:background="@drawable/border"
+            android:text="ABC"
+            android:fontFamily="@font/font23">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:id="@+id/font24"
+            android:background="@drawable/border"
+            android:padding="4dp"
+            android:text="ABC"
+            android:fontFamily="@font/font24">
+
+        </TextView>
+
+    </LinearLayout>
+    </HorizontalScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:id="@+id/choose_color"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:text="choose_color">
+
+    </Button>
+
+</LinearLayout>
