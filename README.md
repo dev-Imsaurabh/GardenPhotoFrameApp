@@ -9,6 +9,7 @@
 
 
 <p align="center">
+    <a href = "https://github.com/dev-iamsaurabh/GardenPhotoFrameApp/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
     </a>
 </p>
